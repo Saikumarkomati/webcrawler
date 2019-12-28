@@ -12,7 +12,7 @@ import com.wipro.webcrawler.pojo.Url;
 
 @Service
 public class WebCrawlerService {
-
+        /*Comment is added here*/
 	public SiteMap getSiteMap(String url) throws Exception {
 		SiteMap siteMap = new SiteMap();
 		
